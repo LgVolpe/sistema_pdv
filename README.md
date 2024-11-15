@@ -42,7 +42,3 @@ Sinta-se à vontade para contribuir com melhorias neste projeto. Abra um problem
 1. Crie um arquivo chamado `README.md` na raiz do seu repositório no GitHub (se ainda não existir).
 2. Cole o texto formatado acima nesse arquivo.
 3. Commit e faça o push do arquivo para o seu repositório no GitHub.
-
-Esse formato é otimizado para ser visualizado corretamente no GitHub e separa as seções de forma clara. Quando você visualizar o repositório no GitHub, ele será exibido com a formatação que você deseja!
-
-
