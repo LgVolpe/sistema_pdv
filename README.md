@@ -21,7 +21,6 @@ Este projeto consiste em uma API para um sistema de Ponto de Venda (PDV) que ger
 ---
 
 ## Instale as Dependências
-```bash
 npm install
 Inicie o Servidor
 npm run dev
@@ -36,9 +35,3 @@ GET /perfil - Detalhar perfil do usuário logado
 PUT /perfil - Editar perfil do usuário logado
 Contribuição
 Sinta-se à vontade para contribuir com melhorias neste projeto. Abra um problema ou envie uma solicitação de pull.
-
-### Instruções para colar no GitHub:
-
-1. Crie um arquivo chamado `README.md` na raiz do seu repositório no GitHub (se ainda não existir).
-2. Cole o texto formatado acima nesse arquivo.
-3. Commit e faça o push do arquivo para o seu repositório no GitHub.
